@@ -76,7 +76,7 @@
 
 @media screen and (max-width: 650px) {
   .app__specialMenu-menu_img {
-    width: 100%;
+    width: 120%;
   }
 
   .app__specialMenu-menu_heading {

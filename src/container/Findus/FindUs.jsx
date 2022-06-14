@@ -29,7 +29,7 @@ const FindUs = () => (
       </button>
     </div>
 
-    <div className="app__wrapper_img app__wrapper_img-reverse">
+    <div className="app__wrapper_img">
       <img src={images.findus} alt="Find Us" />
     </div>
   </div>
