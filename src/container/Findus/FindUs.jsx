@@ -12,7 +12,7 @@ const FindUs = () => (
       </h1>
 
       <div className="app__wrapper-content">
-        <p className="p__opensans">Krysiewicza 7, 61-825 Poznań, Poland</p>
+        <p className="p__opensans">Ratajczaka 69, 61-891 Poznań, Poland</p>
         <p
           className="p__cormorant"
           style={{ color: "#DCCA78", margin: "2rem 0" }}
