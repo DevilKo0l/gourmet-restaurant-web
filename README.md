@@ -35,7 +35,7 @@ You need to install [nodejs](https://nodejs.org/en/)
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/DevilKo0l/my-portfolio-web.git
+   git clone https://github.com/DevilKo0l/gourmet-restaurant-web.git
    ```
 2. Install npm in gourmet-restaurant-web folder
    ```
