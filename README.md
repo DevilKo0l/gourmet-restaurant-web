@@ -41,7 +41,7 @@ You need to install [nodejs](https://nodejs.org/en/)
    ```
    npm install
    ```
-3. Run the project `npm start` in frontend_react folder
+3. Run the project
    ```
    npm start
    ```
