@@ -8,7 +8,7 @@
     <a href="#"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://nat-gourmet-restaurant.vercel.app/">View Demo</a>   
+    <a href="https://nat-gourmet-restaurant.vercel.app/">Live Preview</a>   
     
   </p>
 </div>
